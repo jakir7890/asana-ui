@@ -1,20 +1,5 @@
-<<<<<<< HEAD
-# asana-ui
-=======
-# flutter_boilerplate
 
-Flutter boilerplate.
+### asana-ui
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> c8d213f (Initial commit)
+- [Download Apk](https://www.dropbox.com/scl/fo/i9g9gt1efdjjiuuxs1gwr/AHbOaB72Lr5mdqOUsk16T3k?rlkey=wu5zgkf4eo3u2mqevs7hhprsn&st=0h5r9b2l&dl=0)
